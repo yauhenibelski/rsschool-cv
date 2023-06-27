@@ -1,3 +1,6 @@
-### Yauheni Belski
----
-E-mail: ev303bel@gmail.com
+# Yauheni Belski
+## Contact information:
+ + E-mail: ev303bel@gmail.com
+## About me:
+  + Developer
+
