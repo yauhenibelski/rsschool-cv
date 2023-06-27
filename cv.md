@@ -3,4 +3,6 @@
  + E-mail: ev303bel@gmail.com
 ## About me:
   + Developer
-
+## Skills:
+ + TypeScript
+ + React
